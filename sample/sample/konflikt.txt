@@ -1,1 +1,3 @@
 galaz master
+polaczona z galaz konflikt
+
